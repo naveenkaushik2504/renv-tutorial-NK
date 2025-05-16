@@ -9,6 +9,16 @@
     ]
   },
   "Packages": {
+    "HistData": {
+      "Package": "HistData",
+      "Version": "0.9-3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "65eb9c4fb20aac02058cdaf323b505fb"
+    },
     "renv": {
       "Package": "renv",
       "Version": "0.17.3",
